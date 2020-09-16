@@ -1,4 +1,4 @@
-# wish_list
+# Wish List
 
 Keeping a list of topics to work on: 
 
