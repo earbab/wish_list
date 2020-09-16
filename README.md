@@ -4,7 +4,7 @@ Keeping a list of topics to work on:
 
 NLP     
     [] BERT (AL-BERT)      
-    [] GPT3      
+    [] GPT-3      
 
 [] MPC      
 [] Differential Privacy      
