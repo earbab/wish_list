@@ -1,6 +1,6 @@
 # Wish List
 
-Keeping a list of topics to work on: 
+List of topics to work on: 
 
 NLP     
     [] BERT (AL-BERT)      
