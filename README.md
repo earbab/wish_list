@@ -1,6 +1,6 @@
 # Wish List
 
-List of topics to work on: 
+List of topics I'll be adding sample code for gradually: 
 
 NLP     
     [] BERT (AL-BERT)      
@@ -11,11 +11,9 @@ Crypto
 [] Differential Privacy      
 
 Interpretability     
-[] TCAV 
-[] Shapley Value
+[] TCAV     
+[] Shapley Value     
 
-Visualization      
-[] T-SNE   
 
-[] Causal Inference    
-
+Causal Inference      
+[] Kernel Methods      
